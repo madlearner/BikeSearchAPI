@@ -43,9 +43,6 @@ Example: `http://127.0.0.1:8000/v1/search?location=Mumbai&duration=3&manufacture
 
 This will return a JSON response containing the stolen or found bicycles in the specified location (Mumbai) within the last 3 months, filtered by the manufacturer (Honda).
 
-3. The FastAPI code can be fetched from https://t.ly/nQHLE 
-
-Here, you will find the implementation of the code with a demo of local API call.
 
 ## API Documentation
 
